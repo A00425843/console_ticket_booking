@@ -61,7 +61,7 @@ public class Main {
 						 System.out.println("Enter your Phone Number:");
 						 int Phone = scn.nextInt();
 						 
-						 System.out.println("Enter your Zipcode:");
+						 System.out.println("Enter your Area Zipcode:");
 						 String Zipcode = scn.next();
 						 
 						 System.out.println("Enter Movie Name:");
